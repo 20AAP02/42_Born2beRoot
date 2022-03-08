@@ -4,15 +4,15 @@ Mandatory Goals:
 Create Vritual Machine
 Setup Debian OS in the VM
 Install minimum of services
-AppArmor needs to be running at startup
+AppArmor needs to be running at startup ------
 You must create at least 2 encrypted partitions using LVM
-During defense you’ll be asked a few questions about the operating system you choose.
-(Ex: Whats the differences between aptitude and apt, or what AppArmor is?)
-A SSH service will be running on port 4242 only (for security reasons, it must not b possible to connect using SSH as root)
-The use of SSH will be tested during the defense by setting up a new account
-You have to configure your operating system with the UFW firewall and thus leave only port 4242 open
+During defense you’ll be asked a few questions about the operating system you choose. ----
+(Ex: Whats the differences between aptitude and apt, or what AppArmor is?) -----
+A SSH service will be running on port 4242 only (for security reasons, it must not b possible to connect using SSH as root) ----
+The use of SSH will be tested during the defense by setting up a new account -----
+You have to configure your operating system with the UFW firewall and thus leave only port 4242 open ----
 Your firewall must be active when you launch your virtual machine
-The hostname of your virtual machine must be your login ending with 42
+The hostname of your virtual machine must be your login ending with 42 ----
 you’ll have to modify this hostname during evaluation
 Implemnt strong password policy
 Install and configure sudo following strict rules
