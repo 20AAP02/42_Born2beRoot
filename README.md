@@ -28,4 +28,4 @@ https://github.com/20AAP02/Born2beRoot/blob/main/en.subject.pdf
 -----
 
 <b>Note: I only have to turn in a signature.txt file at the root of my repository. Which had the signature of my machine’s virtual disk.<br>
-The sript file, has a script</b>
+The monitoring.sh file, has an incomplete script, which was meant so that I didn't had to remake the sript if the vm was lost, during the time that I was making the vm. (It was in a shool's pc)</b>
