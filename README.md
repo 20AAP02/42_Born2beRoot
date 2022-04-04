@@ -1,6 +1,6 @@
 <h1 align="center"> Bornt_to_be_root | 42 School Project </h1>
 <h4>This project aims to introduce you to the wonderful world of virtualization.</h4>
-<p>This project aimed to create a function that could read content line by line from a file</p>
+<p>I created my first machine in VirtualBox under specific instructions. And then set an operating system while implementing strict rules.</p>
 
 -----
 
