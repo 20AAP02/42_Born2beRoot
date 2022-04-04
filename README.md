@@ -11,7 +11,7 @@
 -----
 
 <h4>Subject</h4>
-https://github.com/20AAP02/get_next_line/blob/master/en.subject.pdf
+https://github.com/20AAP02/Born2beRoot/blob/main/en.subject.pdf
 
 -----
 
