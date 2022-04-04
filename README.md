@@ -1,4 +1,4 @@
-<h1 align="center"> Bornt_to_be_root | 42 School Project </h1>
+<h1 align="center"> Born2beroot | 42 School Project </h1>
 <h4>This project introduced me to the wonderful world of virtualization.</h4>
 <p>I created my first virtual machine in VirtualBox under specific instructions. And then set an operating system while implementing strict rules.</p>
 
